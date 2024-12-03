@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="color: red">Maintenance mode</h1>
+    <h1 style="color: red">Maintenance mode.</h1>
 </body>
 </html>
