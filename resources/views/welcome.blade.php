@@ -22,9 +22,7 @@
                         <div class="tf-container">
                             <div class="row">
                                 <div class="col-lg-8">
-
                                     <h1 class="mb-32 text-white title-slide fadeInDown wow">Welcome to Elevate Dreams <br>
-
                                         <span class="animationtext clip text-main">
                                             <span class="cd-words-wrapper">
                                                 <span style="color: #e9b91e" class="item-text is-visible">Smooth </span>
@@ -32,12 +30,11 @@
                                             </span>
                                         </span>
                                     </h1>
-                                    <p class="text-white des mb-45 fadeInDown wow">we care deeply about your success and go
+                                    <p class="text-white des mb-45 fadeInDown wow">We care deeply about your success and go
                                         the extra mile to make it happen.
-
                                     </p>
                                     <div class="btn-group">
-                                        <a href="#" class="btn-main fadeInDown wow">
+                                        <a href="#" class="btn-main edyellow fadeInDown wow">
                                             <p class="btn-main-text">Let,s get started</p>
                                             <p class="iconer">
                                                 <i class="icon-arrow-right"></i>

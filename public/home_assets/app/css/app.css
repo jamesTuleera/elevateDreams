@@ -50,6 +50,12 @@
 @import "../css/bootstrap.css";
 /* Header
 -------------------------------------------------------------- */
+
+
+.edyellow{
+  background-color: #e9b91e !important;
+  color: #000000 !important;
+}
 .header-top {
   padding-left: 209px;
   background-color: #EBEBEB;
