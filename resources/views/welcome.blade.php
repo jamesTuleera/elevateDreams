@@ -27,8 +27,8 @@
 
                                         <span class="animationtext clip text-main">
                                             <span class="cd-words-wrapper">
-                                                <span class="item-text is-visible">Smooth </span>
-                                                <span class="item-text is-hidden"> Inspiring</span>
+                                                <span style="color: #e9b91e" class="item-text is-visible">Smooth </span>
+                                                <span style="color: #e9b91e" class="item-text is-hidden"> Inspiring</span>
                                             </span>
                                         </span>
                                     </h1>
