@@ -22,9 +22,7 @@
                         <div class="tf-container">
                             <div class="row">
                                 <div class="col-lg-8">
-                                    <span class="sub-title text-main font-yes fs-28-46 fadeInDown wow">Explore
-                                        the
-                                        world</span>
+
                                     <h1 class="mb-32 text-white title-slide fadeInDown wow">Welcome to Elevate Dreams <br>
 
                                         <span class="animationtext clip text-main">
@@ -34,7 +32,8 @@
                                             </span>
                                         </span>
                                     </h1>
-                                    <p class="text-white des mb-45 fadeInDown wow">we care deeply about your success and go the extra mile to make it happen.
+                                    <p class="text-white des mb-45 fadeInDown wow">we care deeply about your success and go
+                                        the extra mile to make it happen.
 
                                     </p>
                                     <div class="btn-group">
@@ -165,6 +164,93 @@
 
     <!-- Widget Select Form -->
 
+
+
+    <!-- Widget Banner Blog -->
+    <section class="pd-main">
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center m0-auto w-text-heading">
+
+                        <h2 class="0 title-heading wow fadeInUp animated">What <span class="text-gray font-yes">We</span> Do
+                        </h2>
+                        <span class="sub-title-heading text-main mb-15 wow fadeInUp animated">We simplify the U.S. visa
+                            process, focusing on three key pathways to residency</span>
+
+                        <p class="mb-40"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.1s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl1.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB1</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB1 Visa (Employment-Based First
+                                    Preference)/a></h3>
+                            <p class="des"> If you’ve reached the top of your field—whether in the arts, sciences,
+                                business, or athletics—the EB1 visa is designed for you.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.2s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl2.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB2</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB2 Visa (Employment-Based Second
+                                    Preference)</a></h3>
+                            <p class="des">If you hold an advanced degree (like a Master’s or higher) or have exceptional
+                                talent in your field, the EB2 visa may be your gateway to the U.S.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.3s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl3.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB3</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB5 Visa (Employment-Based Fifth Preference)
+                                </a></h3>
+                            <p class="des">This visa is ideal if you’re looking to invest in the U.S. economy. By
+                                investing a substantial amount in a U.S.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- Widget Banner Blog -->
+
+
+
     <!-- Widget Aboutus -->
     <section class="about-us pb-150">
         <div class="tf-container">
@@ -190,12 +276,14 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="inner-content-about">
-                        <span class="sub-title-heading text-main mb-15 fadeInUp wow">Explore the
-                            world</span>
-                        <h2 class="title-heading mb-18 fadeInUp wow">We  <span
-                                class="text-gray font-yes">Elevate </span> your Dreams</h2>
+                        <h2 class="title-heading mb-18 fadeInUp wow">We <span class="text-gray font-yes">Elevate </span>
+                            your Dreams</h2>
                         <p class="des-heading fadeInUp wow">
-                            We Elevate Dreams, because we believe that the journey to building a life in the United States should be as smooth and inspiring as the dreams that drive it. We specialize in EB1, EB2, and EB5 visa applications, guiding you every step of the way so that the complexities of immigration law don’t get in the way of your future. Our approach is simple: we care deeply about your success and go the extra mile to make it happen.
+                            We Elevate Dreams, because we believe that the journey to building a life in the United States
+                            should be as smooth and inspiring as the dreams that drive it. We specialize in EB1, EB2, and
+                            EB5 visa applications, guiding you every step of the way so that the complexities of immigration
+                            law don’t get in the way of your future. Our approach is simple: we care deeply about your
+                            success and go the extra mile to make it happen.
                         </p>
                         <div class="row mt-27 fadeInUp wow">
                             <div class="col-sm-6">
@@ -219,7 +307,9 @@
                                         </svg>
                                     </div>
                                     <h6 class="mb-10 title"><a href="#">Complete Application Support</a></h6>
-                                    <p class="des">From preparing documents to liaising with U.S. immigration authorities, we handle every step of the process so you can focus on what matters most.
+                                    <p class="des">From preparing documents to liaising with U.S. immigration
+                                        authorities, we handle every step of the process so you can focus on what matters
+                                        most.
                                     </p>
                                 </div>
                             </div>
@@ -259,7 +349,8 @@
                                         </svg>
                                     </div>
                                     <h6 class="mb-10 title"><a href="#">Personalized Consultations</a></h6>
-                                    <p class="des">We take the time to understand your unique situation and craft the best legal strategy for your immigration journey.
+                                    <p class="des">We take the time to understand your unique situation and craft the
+                                        best legal strategy for your immigration journey.
                                     </p>
                                 </div>
                             </div>
@@ -287,87 +378,6 @@
 
 
 
-
-
-    <!-- Widget Banner Blog -->
-                <section class="pd-main">
-                    <div class="tf-container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="center m0-auto w-text-heading">
-
-                                    <h2 class="0 title-heading wow fadeInUp animated">What <span
-                                            class="text-gray font-yes">We</span> Do</h2>
-                                            <span class="sub-title-heading text-main mb-15 wow fadeInUp animated">We simplify the U.S. visa process, focusing on three key pathways to residency</span>
-
-                                            <p class="mb-40"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.1s">
-                                <div class="tf-widget-blog blog-style">
-                                    <a href="blog-details.html" class="blog-image">
-                                        <img src="{{ asset('home_assets/assets/images/blog/bl1.jpg') }}" alt="">
-                                        <div class="category-blog">
-                                            <i class="icon-Group-8"></i>
-                                            <span>EB1</span>
-                                        </div>
-                                    </a>
-                                    <div class="blog-content">
-
-                                        <h3 class="entry-title"><a href="blog-details.html">EB1 Visa (Employment-Based First Preference)/a></h3>
-                                        <p class="des"> If you’ve reached the top of your field—whether in the arts, sciences, business, or athletics—the EB1 visa is designed for you.
-                                        </p>
-                                        <a href="blog-details.html" class="btn-read-more">Read More <i
-                                                class="icon-Vector-4"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.2s">
-                                <div class="tf-widget-blog blog-style">
-                                    <a href="blog-details.html" class="blog-image">
-                                        <img src="{{ asset('home_assets/assets/images/blog/bl2.jpg') }}" alt="">
-                                        <div class="category-blog">
-                                            <i class="icon-Group-8"></i>
-                                            <span>EB2</span>
-                                        </div>
-                                    </a>
-                                    <div class="blog-content">
-
-                                        <h3 class="entry-title"><a href="blog-details.html">EB2 Visa (Employment-Based Second Preference)</a></h3>
-                                        <p class="des">If you hold an advanced degree (like a Master’s or higher) or have exceptional talent in your field, the EB2 visa may be your gateway to the U.S.
-                                        </p>
-                                        <a href="blog-details.html" class="btn-read-more">Read More <i
-                                                class="icon-Vector-4"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.3s">
-                                <div class="tf-widget-blog blog-style">
-                                    <a href="blog-details.html" class="blog-image">
-                                        <img src="{{ asset('home_assets/assets/images/blog/bl3.jpg') }}" alt="">
-                                        <div class="category-blog">
-                                            <i class="icon-Group-8"></i>
-                                            <span>EB3</span>
-                                        </div>
-                                    </a>
-                                    <div class="blog-content">
-
-                                        <h3 class="entry-title"><a href="blog-details.html">EB5 Visa (Employment-Based Fifth Preference)
-                                        </a></h3>
-                                        <p class="des">This visa is ideal if you’re looking to invest in the U.S. economy. By investing a substantial amount in a U.S.
-                                        </p>
-                                        <a href="blog-details.html" class="btn-read-more">Read More <i
-                                                class="icon-Vector-4"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </section>
-                <!-- Widget Banner Blog -->
 
 
 
@@ -416,9 +426,8 @@
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="ab-tab" data-bs-toggle="tab"
-                                data-bs-target="#ab-tab-pane" type="button" role="tab"
-                                aria-controls="ab-tab-pane" aria-selected="false">
+                            <button class="nav-link" id="ab-tab" data-bs-toggle="tab" data-bs-target="#ab-tab-pane"
+                                type="button" role="tab" aria-controls="ab-tab-pane" aria-selected="false">
                                 <span class="icon flex-five">
                                     <i class="icon-Group-4"></i>
                                 </span>
@@ -427,9 +436,8 @@
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="cd-tab" data-bs-toggle="tab"
-                                data-bs-target="#cd-tab-pane" type="button" role="tab"
-                                aria-controls="cd-tab-pane" aria-selected="false">
+                            <button class="nav-link" id="cd-tab" data-bs-toggle="tab" data-bs-target="#cd-tab-pane"
+                                type="button" role="tab" aria-controls="cd-tab-pane" aria-selected="false">
                                 <span class="icon flex-five">
                                     <svg width="59" height="55" viewBox="0 0 59 55" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -499,13 +507,15 @@
                                 </div>
                                 <div class="relative activities-content">
                                     <span class="text-white sub-title">Take the first step</span>
-                                    <h3 class="text-white title-activitis mb-60">Ready to begin your journey to the United States?</h3>
+                                    <h3 class="text-white title-activitis mb-60">Ready to begin your journey to the United
+                                        States?</h3>
                                     <div class="flex-three mb-30">
                                         <div class="text-white flex-three icon-list-wrap">
                                             <div class="icon">
                                                 <i class="icon-Page-1"></i>
                                             </div>
-                                            <span class="icon-lists">Contact Elevate Dreams today for personalized guidance. We are here to help you make your American dream a reality.</span>
+                                            <span class="icon-lists">Contact Elevate Dreams today for personalized
+                                                guidance. We are here to help you make your American dream a reality.</span>
                                         </div>
 
                                     </div>
@@ -515,13 +525,13 @@
                                         </a>
                                         <a href="#" class="text-white get-start">Get Started Today</a>
                                     </div>
-                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}"
-                                        alt="image" class="mask-tab">
+                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}" alt="image"
+                                        class="mask-tab">
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel"
-                            aria-labelledby="profile-tab" tabindex="0">
+                        <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
+                            tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
                                     <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
@@ -550,13 +560,13 @@
                                         </a>
                                         <a href="#" class="text-white get-start">Get Started Today</a>
                                     </div>
-                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}"
-                                        alt="image" class="mask-tab">
+                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}" alt="image"
+                                        class="mask-tab">
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel"
-                            aria-labelledby="contact-tab" tabindex="0">
+                        <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
+                            tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
                                     <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
@@ -585,8 +595,8 @@
                                         </a>
                                         <a href="#" class="text-white get-start">Get Started Today</a>
                                     </div>
-                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}"
-                                        alt="image" class="mask-tab">
+                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}" alt="image"
+                                        class="mask-tab">
                                 </div>
                             </div>
                         </div>
@@ -620,8 +630,8 @@
                                         </a>
                                         <a href="#" class="text-white get-start">Get Started Today</a>
                                     </div>
-                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}"
-                                        alt="image" class="mask-tab">
+                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}" alt="image"
+                                        class="mask-tab">
                                 </div>
                             </div>
                         </div>
@@ -655,8 +665,8 @@
                                         </a>
                                         <a href="#" class="text-white get-start">Get Started Today</a>
                                     </div>
-                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}"
-                                        alt="image" class="mask-tab">
+                                    <img src="{{ asset('home_assets/assets/images/page/mask-tap.png') }}" alt="image"
+                                        class="mask-tab">
                                 </div>
                             </div>
                         </div>
@@ -667,6 +677,8 @@
     </section>
     <!-- Widget activities -->
 
+
+{{-- Widget Offer Package
     <!-- Widget Offer Package -->
     <section class="relative offer-package pd-main bg-1">
         <img src="{{ asset('home_assets/assets/images/page/feature.jpg') }}" alt="image" class="feature-ofer">
@@ -1152,6 +1164,7 @@
 
     <!-- Widget Offer Package -->
 
+
     <!-- Widget Counter -->
     <section class="relative widget-counter">
         <img src="{{ asset('home_assets/assets/images/page/couter-top.png') }}" alt="image" class="counter-top">
@@ -1216,8 +1229,8 @@
                             <svg width="69" height="68" viewBox="0 0 69 68" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <g clip-path="url(#clip0_73_177)">
-                                    <mask id="mask0_73_177" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="0" y="0" width="69" height="68">
+                                    <mask id="mask0_73_177" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0"
+                                        y="0" width="69" height="68">
                                         <path d="M0.947388 0.30294H68.0527V67.4082H0.947388V0.30294Z" fill="white" />
                                     </mask>
                                     <g mask="url(#mask0_73_177)">
@@ -1243,8 +1256,8 @@
                                 </defs>
                             </svg>
                         </div>
-                        <div class="number-counter percen" data-to="99.9" data-speed="2000"
-                            data-waypoint-active="yes">99.9%</div>
+                        <div class="number-counter percen" data-to="99.9" data-speed="2000" data-waypoint-active="yes">
+                            99.9%</div>
                         <span class="line"></span>
                         <p class="title-counter">Total Postive<br>Reviews</p>
                     </div>
@@ -1262,8 +1275,8 @@
                                     fill="currentColor" />
                             </svg>
                         </div>
-                        <div class="number-counter plus" data-to="190" data-speed="2000"
-                            data-waypoint-active="yes">190+</div>
+                        <div class="number-counter plus" data-to="190" data-speed="2000" data-waypoint-active="yes">
+                            190+</div>
                         <span class="line"></span>
                         <p class="title-counter">Tour<br>Completed</p>
                     </div>
@@ -1335,5 +1348,5 @@
     </section>
     <!-- Widget Brand logo -->
 
-
+    --}}
 @endsection

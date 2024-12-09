@@ -44,7 +44,7 @@
             <header class="flex main-header">
                 <!-- Header Lower -->
                 <div id="header">
-                    <div class="header-top">
+                    {{-- <div class="header-top">
                         <div class="header-top-wrap flex-two">
                             <div class="header-top-right">
                                 <ul class=" flex-three">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div> --}}
                     <div class="header-lower">
                         <div class="tf-container full">
                             <div class="row">
@@ -122,28 +122,10 @@
                                                         </li>
 
                                                         <li class="">
-                                                            <a href="#">T&C</a>
+                                                            <a href="#">blog</a>
                                                         </li>
 
 
-                                                        <li class="dropdown2"><a href="#">Destination</a>
-                                                            <ul>
-                                                                <li><a href="tour-destination-v1.html">Destination
-                                                                        V1</a></li>
-                                                                <li><a href="tour-destination-v2.html">Destination
-                                                                        V2</a></li>
-                                                                <li><a href="tour-destination-v3.html">Destination
-                                                                        V3</a></li>
-                                                                <li><a href="single-destination.html">Destination
-                                                                        Single</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="dropdown2 "><a href="#">Blog</a>
-                                                            <ul>
-                                                                <li><a href="#">Blog</a></li>
-                                                                <li><a href="#">Blog Detail</a></li>
-                                                            </ul>
-                                                        </li>
 
 
                                                         <li><a href="contact-us.html">Contact</a></li>
