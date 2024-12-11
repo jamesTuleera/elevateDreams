@@ -123,7 +123,7 @@
                                                         </li>
 
                                                         <li class="">
-                                                            <a href="{{ route('meet-our-teams') }}">Meet Our Team</a>
+                                                            <a href="{{ route('meet-our-team') }}">Meet Our Team</a>
                                                         </li>
 
                                                         <li class="">
