@@ -6,10 +6,11 @@ use Inertia\Inertia;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('welcome');
 
 
 Route::view(     '/about', 'about')->name('about');
+Route::view(     '/faqs', 'faqs')->name('faqs');
 
 
 Route::group(['prefix' => 'immigration'], function () {

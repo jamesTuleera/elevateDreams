@@ -94,7 +94,7 @@
                                         </div>
                                         <div class="logo-box">
                                             <div class="logo">
-                                                <a href="index.html">
+                                                <a href="{{ route('welcome') }}">
                                                     <img src="{{ asset('home_assets/assets/images/logo.png') }}" alt="Logo">
                                                 </a>
                                             </div>
@@ -106,7 +106,7 @@
                                                     id="navbarSupportedContent">
                                                     <ul class="clearfix navigation">
                                                         <li class=" current">
-                                                            <a href="{{ route('home') }}">Home</a>
+                                                            <a href="{{ route('welcome') }}">Home</a>
                                                         </li>
 
                                                         <li class="">
@@ -123,15 +123,16 @@
                                                         </li>
 
                                                         <li class="">
-                                                            <a href="#">FAQs</a>
+                                                            <a href="{{ route('meet-our-teams') }}">Meet Our Team</a>
+                                                        </li>
+
+                                                        <li class="">
+                                                            <a href="{{ route('faqs') }}">FAQs</a>
                                                         </li>
 
                                                         <li class="">
                                                             <a href="#">blog</a>
                                                         </li>
-
-
-
 
                                                         <li><a href="contact-us.html">Contact</a></li>
                                                     </ul>
@@ -206,7 +207,7 @@
                 <div class="mobile-menu">
                     <div class="menu-backdrop"></div>
                     <nav class="menu-box">
-                        <div class="nav-logo"><a href="index.html">
+                        <div class="nav-logo"><a href="{{ route('welcome') }}">
                                 <img src="{{ asset('home_assets/assets/images/logo2.png') }}" alt=""></a></div>
                         <div class="bottom-canvas">
                             <div class="menu-outer">

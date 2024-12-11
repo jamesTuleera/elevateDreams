@@ -256,7 +256,7 @@
             <div class="row pt-115">
                 <div class="col-lg-6">
                     <div class="relative travel-video">
-                        <img src="{{ asset('home_assets/assets/images/about-us/image-video.png') }}" alt="Image"
+                        <img src="{{ asset('home_assets/assets/images/page/el2.jpeg') }}" alt="Image"
                             class="image-video">
                         <div class="video-wrap">
                             <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
@@ -532,7 +532,7 @@
                             tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
-                                    <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
+                                    <img src="{{ asset('home_assets/assets/images/page/1.jpeg') }}" alt="Image">
                                 </div>
                                 <div class="relative activities-content">
                                     <span class="text-white sub-title">Welcome to our Print</span>
@@ -567,7 +567,7 @@
                             tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
-                                    <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
+                                    <img src="{{ asset('home_assets/assets/images/page/1.jpeg') }}" alt="Image">
                                 </div>
                                 <div class="relative activities-content">
                                     <span class="text-white sub-title">Welcome to our Print</span>
@@ -602,7 +602,7 @@
                             tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
-                                    <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
+                                    <img src="{{ asset('home_assets/assets/images/page/1.jpeg') }}" alt="Image">
                                 </div>
                                 <div class="relative activities-content">
                                     <span class="text-white sub-title">Welcome to our Print</span>
@@ -637,7 +637,7 @@
                             tabindex="0">
                             <div class="flex tabs-activities-content">
                                 <div class="activities-image">
-                                    <img src="{{ asset('home_assets/assets/images/page/1.jpg') }}" alt="Image">
+                                    <img src="{{ asset('home_assets/assets/images/page/1.jpeg') }}" alt="Image">
                                 </div>
                                 <div class="relative activities-content">
                                     <span class="text-white sub-title">Welcome to our Print</span>
