@@ -8,7 +8,7 @@
         <div class="tf-container" >
             <div class="row">
                 <div class="col-lg-12 center z-index1">
-                    <h1 class="title">Internation Business Formation</h1>
+                    <h1 class="title">International Business Formation</h1>
                     <ul class="breadcumb-list flex-five">
                         <li><a href="index.html">Home</a></li>
                         <li><span>Internation Business Formation</span></li>
@@ -53,7 +53,7 @@
 
                     </div>
 
-                    
+
                 </div>
 
                 <div class="col-md-8 inner-content-about">

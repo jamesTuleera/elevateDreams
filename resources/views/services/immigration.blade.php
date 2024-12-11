@@ -4,7 +4,7 @@
 
 <main id="main">
 
-    <section class="breadcumb-section">
+    <section class="breadcumb-section" style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') }})">
         <div class="tf-container">
             <div class="row">
                 <div class="col-lg-12 center z-index1">
@@ -27,7 +27,7 @@
         <div class="tf-container">
             <div class="row ">
                 <div class="col-lg-12">
-                    <div class="relative overflow-hidden video-h4-widget mb--14em">
+                    <div class="relative overflow-hidden video-h4-widget mb--14em" style="background-image: url({{ asset('home_assets/assets/images/page/youtubela.jpeg') }})">
                         <div class="video-wrap">
                             <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
                                 class="relative video-box flex-five z-index3 widget-videos">
@@ -119,5 +119,5 @@
     <!-- Widget About Us -->
 
 
-    
+
 @endsection

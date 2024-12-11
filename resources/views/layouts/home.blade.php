@@ -140,7 +140,7 @@
                                             <!-- Main Menu End-->
                                         </div>
                                         <div class="flex header-account align-center">
-                                            <div class="language">
+                                            {{-- <div class="language">
                                                 <div class="nice-select" tabindex="0">
                                                     <img src="{{ asset('home_assets/assets/images/page/language.svg') }}" alt=""><span
                                                         class="current">English</span>
@@ -176,7 +176,7 @@
                                                         </form>
                                                     </ul>
                                                   </div>
-                                            </div>
+                                            </div> --}}
                                             <div class="register">
                                                 <ul class="flex align-center">
                                                     <li>
