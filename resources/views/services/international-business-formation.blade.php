@@ -165,7 +165,7 @@
                         </div>
                     </div>
                     <div class="flex-three btn-wrap-about ">
-                        <a href="#" class="btn-main">
+                        <a href="https://www.speakmeet.com/elevatedreams" class="btn-main">
                             <p class="btn-main-text">Book consultation</p>
                             <p class="iconer">
                                 <i class="icon-arrow-right"></i>
