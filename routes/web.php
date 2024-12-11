@@ -17,6 +17,10 @@ Route::group(['prefix' => 'immigration'], function () {
     Route::view(      '/international-business-formation',  'services.international-business-formation')->name('business-formation');
 });
 
+Route::get('/consultation', function(){
+    return('Coming soon...');
+})->name('consultation');
+
 
 
 

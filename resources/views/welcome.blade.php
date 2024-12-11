@@ -13,10 +13,7 @@
                             class="mask-slide">
                         <img src="{{ asset('home_assets/assets/images/slide/mask-fly.png') }}" alt="Image"
                             class="mask-flane">
-                        <div class="booking-title tf-anime-rorate">
-                            <p class="booking">path to U.S.</p>
-                            <span></span>
-                        </div>
+
                     </div>
                     <div class="slider-content">
                         <div class="tf-container">
@@ -243,9 +240,97 @@
                 </div>
             </div>
 
+
         </div>
     </section>
     <!-- Widget Banner Blog -->
+
+
+
+    <!-- Widget Banner Blog -->
+    <section class="pd-main">
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center m0-auto w-text-heading">
+
+                        <h2 class="0 title-heading wow fadeInUp animated">What <span class="text-gray font-yes">We</span> Do
+                        </h2>
+                        <span class="sub-title-heading text-main mb-15 wow fadeInUp animated">We simplify the U.S. visa
+                            process, focusing on three key pathways to residency</span>
+
+                        <p class="mb-40"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.1s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl1.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB1</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB1 Visa (Employment-Based First
+                                    Preference)</a></h3>
+                            <p class="des"> If you’ve reached the top of your field—whether in the arts, sciences,
+                                business, or athletics—the EB1 visa is designed for you.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.2s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl2.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB2</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB2 Visa (Employment-Based Second
+                                    Preference)</a></h3>
+                            <p class="des">If you hold an advanced degree (like a Master’s or higher) or have exceptional
+                                talent in your field, the EB2 visa may be your gateway to the U.S.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated " data-wow-delay="0.3s">
+                    <div class="tf-widget-blog blog-style">
+                        <a href="blog-details.html" class="blog-image">
+                            <img src="{{ asset('home_assets/assets/images/blog/bl3.jpg') }}" alt="">
+                            <div class="category-blog">
+                                <i class="icon-Group-8"></i>
+                                <span>EB3</span>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+
+                            <h3 class="entry-title"><a href="blog-details.html">EB5 Visa (Employment-Based Fifth Preference)
+                                </a></h3>
+                            <p class="des">This visa is ideal if you’re looking to invest in the U.S. economy. By
+                                investing a substantial amount in a U.S.
+                            </p>
+                            <a href="blog-details.html" class="btn-read-more">Read More <i class="icon-Vector-4"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+    <!-- Widget Banner Blog -->
+
 
 
 
@@ -267,7 +352,7 @@
 
                         <img src="{{ asset('home_assets/assets/images/about-us/vali.png') }}" alt="Image"
                             class="mask-video tf-anime-rorate">
-                      
+
                     </div>
 
                 </div>
