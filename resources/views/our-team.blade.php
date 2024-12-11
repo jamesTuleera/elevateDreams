@@ -35,7 +35,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
         <div class="team-member-grid">
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team1.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team1.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -67,7 +67,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
             </div>
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team2.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team2.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -99,7 +99,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
             </div>
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team3.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team3.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -131,7 +131,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
             </div>
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team4.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team4.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -163,7 +163,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
             </div>
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team5.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team5.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -195,7 +195,7 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
             </div>
             <div class="tf-widget-team">
                 <div class="team-image mb-15">
-                    <img src="./assets/images/team/team6.jpg" alt="">
+                    <img src="{{ asset('home_assets/assets/images/team/team6.jpg') }}" alt="">
                     <ul class="social-team">
                         <li>
                             <a href="#">
@@ -228,39 +228,6 @@ style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') 
         </div>
     </div>
 </section>
-
-<section class="brand-logo-widget bg-4">
-    <div class="tf-container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="overflow-hidden swiper brand-logo">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="./assets/images/page/brand-logo.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</section>
-
 
 
 @endsection

@@ -10,7 +10,7 @@ Route::get('/', function () {
 
 Route::view(     '/about', 'about')->name('about');
 Route::view(      '/faqs', 'faqs')->name('faqs');
-Route::view(     '/meet-our-team', view: 'faqs')->name(name: 'meet-our-team');
+Route::view(     '/meet-our-team',  'our-team')->name(name: 'meet-our-team');
 
 Route::group(['prefix' => 'immigration'], function () {
     Route::view(      '/immigration',  'services.immigration')->name('immigration');
