@@ -8,11 +8,9 @@ Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
 
-
 Route::view(     '/about', 'about')->name('about');
 Route::view(      '/faqs', 'faqs')->name('faqs');
 Route::view(     '/meet-our-team', view: 'faqs')->name(name: 'meet-our-team');
-
 
 Route::group(['prefix' => 'immigration'], function () {
     Route::view(      '/immigration',  'services.immigration')->name('immigration');
