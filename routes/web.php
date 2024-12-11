@@ -18,8 +18,8 @@ Route::group(['prefix' => 'immigration'], function () {
 });
 
 Route::get('/consultation', function(){
-    return('Coming soon...');
-})->name('consultation');
+    return view("consultation");
+})->name(name: 'consultation');
 
 
 
