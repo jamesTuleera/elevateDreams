@@ -267,8 +267,7 @@
 
                         <img src="{{ asset('home_assets/assets/images/about-us/vali.png') }}" alt="Image"
                             class="mask-video tf-anime-rorate">
-                        <img src="{{ asset('home_assets/assets/images/page/enjoy.png') }}" alt="Image"
-                            class="mask-enjoy ">
+                      
                     </div>
 
                 </div>
