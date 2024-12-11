@@ -53,6 +53,7 @@
 
                     </div>
 
+                    
                 </div>
 
                 <div class="col-md-8 inner-content-about">
