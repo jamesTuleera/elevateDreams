@@ -24,9 +24,10 @@
                                 <div class="col-lg-8">
                                     <h1 class="mb-32 text-white title-slide fadeInDown wow">Welcome to Elevate Dreams <br>
                                         <span class="animationtext clip text-main">
-                                            <span class="cd-words-wrapper">
-                                                <span style="color: #e9b91e" class="item-text is-visible">Smooth </span>
-                                                <span style="color: #e9b91e" class="item-text is-hidden"> Inspiring</span>
+                                            <span style="font-size: 45px;" class="cd-words-wrapper">
+                                                <span style="color: #e9b91e" class="item-text is-visible">Immigration </span>
+                                                <span style="color: #e9b91e" class="item-text is-hidden"> Business Formation</span>
+                                                <span style="color: #e9b91e" class="item-text is-hidden"> Investment</span>
                                             </span>
                                         </span>
                                     </h1>
@@ -192,7 +193,7 @@
                         <div class="blog-content">
 
                             <h3 class="entry-title"><a href="blog-details.html">EB1 Visa (Employment-Based First
-                                    Preference)/a></h3>
+                                    Preference)</a></h3>
                             <p class="des"> If you’ve reached the top of your field—whether in the arts, sciences,
                                 business, or athletics—the EB1 visa is designed for you.
                             </p>

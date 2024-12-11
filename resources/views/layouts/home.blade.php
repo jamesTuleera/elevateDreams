@@ -106,15 +106,20 @@
                                                     id="navbarSupportedContent">
                                                     <ul class="clearfix navigation">
                                                         <li class=" current">
-                                                            <a href="#">Home</a>
+                                                            <a href="{{ route('home') }}">Home</a>
                                                         </li>
 
                                                         <li class="">
-                                                            <a href="#">About Us</a>
+                                                            <a href="{{ route('about') }}">About Us</a>
                                                         </li>
 
-                                                        <li class="">
+                                                        <li class="dropdown2">
                                                             <a href="#">Services</a>
+                                                            <ul>
+                                                                <li><a href="{{ route('immigration') }}">Immigration</a></li>
+                                                                <li><a href="{{ route('business-formation') }}">Internation Business Formation</a></li>
+                                                                <li><a href="{{ route('immigration') }}">Internation Investment</a></li>
+                                                            </ul>
                                                         </li>
 
                                                         <li class="">
@@ -216,6 +221,8 @@
             <main id="main">
 
 @yield('content')
+
+{{--
                 <!-- Widget Testimonial -->
                 <section class="widget-testimonial-style01">
                     <div class="tf-container">
@@ -309,7 +316,7 @@
                 </section>
                 <!-- Widget Testimonial -->
 
-                <!-- Widget Banner Contact -->
+              <!-- Widget Banner Contact -->
                 <section class="relative widget-banner-contact">
                     <div class="tf-container">
                         <div class="relative row z-index3">
@@ -368,7 +375,7 @@
                     </div>
 
                 </section>
-
+                --}}
             </main>
 
             <footer class="footer footer-style1">
