@@ -4,8 +4,8 @@
 
 <main id="main">
 
-    <section class="breadcumb-section">
-        <div class="tf-container">
+    <section class="breadcumb-section" style="background-image: url({{ asset('home_assets/assets/images/page/bg3.jpg') }})">
+        <div class="tf-container" >
             <div class="row">
                 <div class="col-lg-12 center z-index1">
                     <h1 class="title">Internation Business Formation</h1>
@@ -13,7 +13,7 @@
                         <li><a href="index.html">Home</a></li>
                         <li><span>Internation Business Formation</span></li>
                     </ul>
-                    <img class="bcrumb-ab" src="{{ asset('home_assets/assets/images/page/mask-bcrumb.png') }}" alt="">
+                    <img class="bcrumb-ab" src="{{ asset('home_assets/assets/images/page/') }}" alt="">
                 </div>
             </div>
 
@@ -23,11 +23,11 @@
 
 
     <!-- Widget Video -->
-    <section class="mt-5 mb-5 about-us-h4">
+    <section class="mt-5 mb-5 about-us-h4" >
         <div class="tf-container">
             <div class="row ">
-                <div class="col-lg-12">
-                    <div class="relative overflow-hidden video-h4-widget mb--14em">
+                <div class="col-lg-12" >
+                    <div class="relative overflow-hidden video-h4-widget mb--14em" style="background-image: url({{ asset('home_assets/assets/images/page/youtubela.jpeg') }})">
                         <div class="video-wrap">
                             <a href="https://www.youtube.com/watch?v=n9LgeoJE4EI"
                                 class="relative video-box flex-five z-index3 widget-videos">
@@ -49,7 +49,7 @@
                     <div class="relative image-about-h4-wrap">
 
 
-                        <img class="img-fluid" src="{{ asset('home_assets/assets/images/travel-list/1.jpg') }}" alt="Image Listing">
+                        <img class="img-fluid" src="{{ asset('home_assets/assets/images/page/1.jpeg') }}" alt="Image Listing">
 
                     </div>
 
