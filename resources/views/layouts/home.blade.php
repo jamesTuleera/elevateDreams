@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <title>{{ env('APP_NAME') }}</title>
+    <link href="{{ asset('home_assets/assets/images/favicon.ico') }}" rel="shortcut icon" type="image/x-icon"/>
 
-    <meta name="author" content="themesflat.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <link rel="stylesheet" href="{{ asset('home_assets/app/css/app.css') }}">
