@@ -19,12 +19,12 @@
                         <div class="tf-container">
                             <div class="row">
                                 <div class="col-lg-8">
-                                    <h1 class="mb-32 text-white title-slide fadeInDown wow">Welcome to Elevate Dreams <br>
-                                        <span class="animationtext clip text-main">
-                                            <span style="font-size: 45px;" class="cd-words-wrapper">
-                                                <span style="color: #e9b91e" class="item-text is-visible">Immigration </span>
-                                                <span style="color: #e9b91e" class="item-text is-hidden"> Business Formation</span>
-                                                <span style="color: #e9b91e" class="item-text is-hidden"> Investment</span>
+                                    <h1 class="mb-32 text-white title-slide fadeInDown wow " >Welcome to Elevate Dreams! <br>
+                                        <span class="animationtext clip text-main ">
+                                            <span style="font-size: 50px;" class="cd-words-wrapper">
+                                                <span style="color: #e9b91e; font-style: oblique" class="item-text is-visible">Immigration </span>
+                                                <span style="color: #e9b91e; font-style: oblique" class="item-text is-hidden"> Business Formation</span>
+                                                <span style="color: #e9b91e; font-style: oblique" class="item-text is-hidden"> Investment</span>
                                             </span>
                                         </span>
                                     </h1>
@@ -267,7 +267,7 @@
                             </a>
                         </div>
 
-            
+
 
                     </div>
 
