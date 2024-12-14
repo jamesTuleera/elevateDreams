@@ -493,7 +493,7 @@
 
                     <div class="row footer-bottom">
                         <div class="col-md-6">
-                            <p class="copy-right">Copyright © 2024 by <a href="#" class="text-main">Themesflat.</a> All
+                            <p class="copy-right">Copyright © 2024 by <a href="#" class="text-main">{{ env('APP_NAME') }}.</a> All
                                 Rights Reserved</p>
                         </div>
                         <div class="col-md-6">
